@@ -29,7 +29,7 @@ services:
     version: 7.1
     source:
       type: download
-      url: https://wordpress.org/wordpress-4.7.6.zip
+      url: https://wordpress.org/wordpress-4.9.4.zip
     extensions:
       - mysqli
       - opcache
